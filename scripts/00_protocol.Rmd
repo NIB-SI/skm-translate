@@ -80,7 +80,7 @@ Reference genomes/proteomes in **bold**
   - [**Marouch n14 v1.0**](https://www.rosaceae.org/organism/24338)
 * _Prunus avium_: wild cherry (pavi)
   - [**Tieton v2.0**](https://www.rosaceae.org/organism/24337)
-* _Prunus cerasifera_: cherry plum (pcer)
+* _Prunus cerasus_: sour cherry (pcer)
   - [**Montmorency' v1.0.a2**](https://www.rosaceae.org/organism/24337)
 * _Prunus persica_: peach (ppe)
   - [**Lovell v2.0.a1**](https://bioinformatics.psb.ugent.be/plaza.dev/_dev_instances/feedback/download/download) primary/selected transcripts
